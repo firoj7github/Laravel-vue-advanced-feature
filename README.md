@@ -4,8 +4,9 @@ Before you begin, ensure you have met the following requirements:
 - Node.js & npm
 - Laragon setup
 
-## Laravel and vue setup
-**composer create-project laravel/laravel example-app
+Run the following command to create a new Laravel project:
+   ```bash
+   composer create-project --prefer-dist laravel/laravel example-app
 
 
 
