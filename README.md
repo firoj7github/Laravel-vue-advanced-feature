@@ -4,9 +4,16 @@ Before you begin, ensure you have met the following requirements:
 - Node.js & npm
 - Laragon setup
 
-Run the following command to create a new Laravel project:
+Run the following command to setup Laravel and vue project:
    ```bash
    composer create-project --prefer-dist laravel/laravel example-app
+   npm install vue@latest
+   npm install @vitejs/plugin-vue
+   npm install
+
+
+   
+   
 
 
 
